@@ -1,7 +1,7 @@
 # OOAD Project-Team
-Nitish Rathore - PES1UG20CS270
-Paladugula Lakshmi Snigdha - PES1UG20CS274
-Prajwal Bhat - PES1UG20CS290
+Nitish Rathore - PES1UG20CS270 <br />
+Paladugula Lakshmi Snigdha - PES1UG20CS274 <br />
+Prajwal Bhat - PES1UG20CS290 <br />
 Prarthana Rajapurohit - PES1UG20CS299
 
 # Project
